@@ -1,0 +1,65 @@
+{
+  "source": "USDA FNDDS 2021-2023 / 文部科学省 日本食品標準成分表（八訂）増補2023年",
+  "model": "gemini-embedding-2",
+  "dimensionality": 768,
+  "normalized": true,
+  "totalCount": 7970,
+  "chunks": [
+    {
+      "url": "/data/embeddings/fndds-00.json",
+      "count": 1215,
+      "bytes": 19912944,
+      "sha256": "46fe7f29d131cc3c3b07c5481c902aca30a1bff8580dede66c167ca905304dcd",
+      "scope": "fndds"
+    },
+    {
+      "url": "/data/embeddings/fndds-01.json",
+      "count": 1215,
+      "bytes": 19909014,
+      "sha256": "fbce5febf262e8ba5de821f7da8122997abd14bfa38c8be6b7803a8aab95e445",
+      "scope": "fndds"
+    },
+    {
+      "url": "/data/embeddings/fndds-02.json",
+      "count": 1216,
+      "bytes": 19916242,
+      "sha256": "8d5f3769fa99c7285b2c658dc1867bc645243a6f80dee5c3ef0de8b26cad3803",
+      "scope": "fndds"
+    },
+    {
+      "url": "/data/embeddings/fndds-03.json",
+      "count": 1215,
+      "bytes": 19911377,
+      "sha256": "187c1c744e9235fce33140c5ed4b4c79727d06b6f1a27d13b47ef6243865a72a",
+      "scope": "fndds"
+    },
+    {
+      "url": "/data/embeddings/fndds-04.json",
+      "count": 571,
+      "bytes": 9361706,
+      "sha256": "ae394d0908a00af1637b1af3649773345d629820fa88d733a31f8db279f19d15",
+      "scope": "fndds"
+    },
+    {
+      "url": "/data/embeddings/mext-00.json",
+      "count": 1218,
+      "bytes": 19919317,
+      "sha256": "245cfd42d358d2671047a55ece03ed471d532df1917b64a463d7659cdaa7ad7c",
+      "scope": "mext"
+    },
+    {
+      "url": "/data/embeddings/mext-01.json",
+      "count": 1217,
+      "bytes": 19909977,
+      "sha256": "049a7304d9d68363997d1311e7dc42ca120316b3899dd10b626388ef1c5bdb2e",
+      "scope": "mext"
+    },
+    {
+      "url": "/data/embeddings/mext-02.json",
+      "count": 103,
+      "bytes": 1684494,
+      "sha256": "d509df561c5627e279455e15f08a005648513c36949778bc20d00bf26f277a00",
+      "scope": "mext"
+    }
+  ]
+}
