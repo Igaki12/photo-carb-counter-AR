@@ -61,4 +61,9 @@ WebXRの完全な検証には実機が必要です。デスクトップ環境で
 - embedding: `gemini-embedding-2`、768次元、正規化済み
 - AprilTag: `arenaxr/apriltag-js-standalone` commit `7a6ad7ddb3562031ab2deb0c5ac5faeb86df599c` に含まれるAprilRobotics由来WASM
 
+データ出典:
+
+- 文部科学省「日本食品標準成分表（八訂）増補2023年から出典」
+- U.S. Department of Agriculture, Agricultural Research Service, Beltsville Human Nutrition Research Center. FoodData Central. [Internet]. Available from: https://fdc.nal.usda.gov/
+
 詳細は [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) と `public/vendor/apriltag/LICENSE` を参照してください。
